@@ -2,5 +2,5 @@
 
 知乎日志
 
-[demo](./demo.gif)
+![demo](./demo.gif)
 
